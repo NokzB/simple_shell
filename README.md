@@ -140,7 +140,7 @@ $ echo $?
 | ----------- | ----------- |
 | `AUTHORS`     | File with names of the owners and authors of this project |
 | `README.md`   | Nutshell description of simple_shell project |
-| `chain.c`  | Auxiliar functions <br> **signal_exit:** handler for SIGINT signals <br> **_calloc:** allocate memory and fills it with zeros
+
 r> **others:** The description and purpose of other functions which are not listed under project files, but exists under the repository can be found in in the commit messages of the concerned files/functions.
 
 ## Full documentation
@@ -154,6 +154,4 @@ At this time, there are no known bugs.
 ## Authors
 
 Nokupila Bhembe ♤
-
 Ayo Hassan ♤
-
